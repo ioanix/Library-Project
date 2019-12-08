@@ -1,0 +1,7 @@
+Cosmopolitan; ahh; Magazine; 6543; kkkk; 12.65; vedete; 22
+Atlas De Geografie; ionescu; Atlas; 34788; Nemira; 17.34; Asia; 10
+1Q84; Haruki Murakami; Book; 45678943; Humanitas; 85.45
+Shogun; James Clavell; Book; 53647588; Humanitas; 75.43
+Harry Potter; J.K.Rowling; Book; 34567892; Humanitas; 89.32
+Amintiri Din Copilarie; Ion Creanga; Book; 34565788; Nemira; 23.65
+The Hunger Games; Suzanne Collins; Book; 45362788; Humanitas; 45.76
